@@ -18,14 +18,21 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20200818170328.1"><vh>slide 1</vh>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210317113927.1"><vh>SLIDE 3-4</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210317114459.1"><vh>1</vh></v>
+<v t="leo.20210317114504.1"><vh>2</vh></v>
+<v t="leo.20210317114551.1"><vh>3</vh></v>
+<v t="leo.20210317114551.2"><vh>4</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -177,32 +184,40 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">cd2021-stage1-ag13
-組員:
+<t tx="leo.20200818170328.1">&lt;section&gt;
+&lt;p&gt;cd2021-stage1-ag13&lt;/p&gt;
+&lt;p&gt;組員:&lt;/p&gt;
 
-      40823117 潘奕丞
+      &lt;p&gt;40823117 潘奕丞&lt;/p&gt;
 
-      倉儲:https://github.com/40823117/cd2021
+      &lt;p&gt;倉儲:&lt;a href="https://github.com/40823122/cd2021"&gt;https://github.com/40823117&lt;/a&gt;&lt;a href="https://github.com/40823122/cd2021"&gt;/cd2021&lt;/a&gt;&lt;/p&gt;
 
-      網頁:https://40823117.github.io/cd2021/
+      &lt;p&gt;網頁:&lt;a href="https://40823122.github.io/cd2021/" rel="nofollow"&gt;https://40823117.github.io/cd2021/&lt;/a&gt;&lt;/p&gt;
 
-      40823122 吳家凱 
+      &lt;p&gt;40823122 吳家凱 &lt;/p&gt;
 
-      倉儲:https://github.com/40823122/cd2021
+      &lt;p&gt;倉儲:&lt;a href="https://github.com/40823122/cd2021"&gt;https://github.com/40823122/cd2021&lt;/a&gt;&lt;/p&gt;
 
-      網頁:https://40823122.github.io/cd2021/</t>
-<t tx="leo.20200818170535.1">產品
-間歇機構應用
-動機: 看到工廠生產線裝箱，想嘗試把它做出來
+      &lt;p&gt;網頁:&lt;a href="https://40823122.github.io/cd2021/" rel="nofollow"&gt;https://40823122.github.io/cd2021/&lt;/a&gt;/&lt;/p&gt;
+      
+      &lt;/section&gt;</t>
+<t tx="leo.20200818170535.1">&lt;section&gt;
+&lt;p&gt;產品&lt;/p&gt;
+&lt;p&gt;間歇機構應用&lt;/p&gt;
+&lt;p&gt;動機: 看到工廠生產線裝箱，想嘗試把它做出來&lt;/p&gt;
 
-第二周:繪製零件
+&lt;p&gt;第二周:繪製零件&lt;/p&gt;
 
-第三周:模擬路徑 並且更正錯誤的地方
+&lt;p&gt;第三周:模擬路徑 並且更正錯誤的地方&lt;/p&gt;
 
-第四周:報告
+&lt;p&gt;第四周:報告&lt;/p&gt;
 
-分工:        40823117{繪製零件}        40823122{模擬，管理網頁} 
-組合圖:
+&lt;p&gt;分工:        40823117{繪製零件}        40823122{模擬，管理網頁} &lt;/p&gt;
+
+
+
+
+&lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
@@ -211,36 +226,33 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
+    &lt;h2&gt;w2  3D設計圖&lt;/h2&gt;
+    &lt;p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KLJs2JZ2k1g"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
     &lt;br&gt;
     &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
     &lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;3D圖&lt;/h2&gt;
+    &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9fFWQlHivmI"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;3D圖&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/DJ5gdPADWoY"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
+    
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -336,5 +348,45 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210317113927.1">&lt;section&gt;
+    &lt;h2&gt;3D圖&lt;/h2&gt;
+    &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qWmlZQI7C-0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    
+&lt;p&gt;零件檔:&lt;a href="https://drive.google.com/drive/folders/1Gw2DKXEOqffqAUVHs4KAM4dbICA-9G0r?usp=sharing"&gt;https://drive.google.com/drive/folders/1Gw2DKXEOqffqAUVHs4KAM4dbICA-9G0r?usp=sharing&lt;/a&gt;&lt;/p&gt;.&lt;/p&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#/2"&gt;
+        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317114459.1">&lt;section&gt;
+    &lt;h2&gt;W4   V-REP模擬&lt;/h2&gt;
+    &lt;p&gt;
+        &lt;p&gt;第1次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/K7nktvmF-CI"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;啟動的時候發現 日內瓦機構的槽做得不夠深導致運動不完全&lt;/p&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317114504.1">&lt;section&gt;
+      &lt;p&gt;
+        &lt;p&gt;第2次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/rcc-KzCBQTk"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;啟動後發現在 INVENTOR畫出來齒輪跟 V-REP模擬出來的有差距INVENTOR 畫出來的圓是接近真圓 ，但V-REP模擬出來的是多邊形，再加上齒輪面的完全貼合導致&lt;span&gt;配合上有問題。&lt;/span&gt;&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317114551.1">&lt;section&gt;
+    &lt;p&gt;
+        &lt;p&gt;第3次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/55Eqxh8FHyY"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;修改完之後。&lt;/p&gt;
+&lt;p&gt;可以發現在選轉帶動上有明顯的優化。但是因為增加了間距，讓齒輪之間產生了晃動，導致齒輪的運動軌跡不如預期，無法達成需要的運動。.
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317114551.2">&lt;section&gt;
+        &lt;p&gt;第4次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/N0pQNY4S9nY"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;觀察了第三次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;決定嘗試在日內瓦齒輪的槽口加上倒角以此來修正晃動所產生的偏差。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;模擬結果確定了倒角能夠解決晃動產生的偏差。&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
