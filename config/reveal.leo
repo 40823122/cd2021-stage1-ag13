@@ -32,6 +32,7 @@
 <v t="leo.20210317114504.1"><vh>2</vh></v>
 <v t="leo.20210317114551.1"><vh>3</vh></v>
 <v t="leo.20210317114551.2"><vh>4</vh></v>
+<v t="leo.20210317223334.1"><vh>5</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -254,23 +255,9 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/DJ5gdPADWoY"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
     
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818171138.1">&lt;section&gt;
+        &lt;p&gt;end&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
@@ -387,6 +374,11 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;span&gt;觀察了第三次模擬&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;決定嘗試在日內瓦齒輪的槽口加上倒角以此來修正晃動所產生的偏差。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;模擬結果確定了倒角能夠解決晃動產生的偏差。&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317223334.1">&lt;section&gt;
+        &lt;p&gt;第5次模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/G4Bj2Rfg3Ro"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;修改完全部問題後，加入了球體模擬被分類的貨物&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
